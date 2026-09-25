@@ -20,7 +20,7 @@ def predict_price(distance: float, surge_multiplier: float, name: str) -> float:
         row[dummy_col] = 1
 
     row[num_cols] = scaler.transform(row[num_cols])
-    return float(model.predict(row)[0])
+    return round(float(model.predict(row)[0]), 2)
 
 if __name__ == '__main__':
     print(predict_price(1.5, 1.5, "UberX"))
