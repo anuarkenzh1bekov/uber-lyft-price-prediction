@@ -183,7 +183,7 @@ export default function App() {
           aria-hidden
           className="mt-10 -mb-[0.2em] text-[clamp(4.5rem,21vw,22rem)] leading-[0.8] font-normal tracking-[-0.075em] whitespace-nowrap text-ink-3 select-none"
         >
-          fare radar
+          farecast
         </p>
       </footer>
 

@@ -73,7 +73,7 @@ export function Nav({ status }: { status: ApiStatus }) {
     <header className="absolute inset-x-0 top-0 z-20 flex items-center justify-between gap-4 p-4 sm:p-6">
       <a href="#top" className="flex items-center gap-2 text-[15px] font-medium tracking-[-0.02em]">
         <Mark />
-        fare radar
+        farecast
       </a>
       <nav
         aria-label="Sections"

@@ -1,4 +1,4 @@
-![fare radar](docs/screenshot.png)
+![Farecast](docs/screenshot.png)
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white">
@@ -8,9 +8,9 @@
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white">
 </p>
 
-# fare radar — Uber & Lyft price prediction
+# Farecast — Uber & Lyft price prediction
 
-**fare radar** estimates what an Uber or Lyft ride in Boston will cost before you book it. Pick a ride type, set the distance and surge multiplier, and a linear regression model trained on 637,976 real priced rides returns the fare instantly.
+**Farecast** estimates what an Uber or Lyft ride in Boston will cost before you book it. Pick a ride type, set the distance and surge multiplier, and a linear regression model trained on 637,976 real priced rides returns the fare instantly.
 
 ## Quick start
 
