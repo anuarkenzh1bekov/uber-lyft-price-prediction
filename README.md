@@ -1,4 +1,4 @@
-![Farecast](docs/screenshot.png)
+![Farecast](docs/farecast.png)
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white">
