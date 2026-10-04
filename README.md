@@ -42,7 +42,7 @@ Open http://localhost:5173. The Vite server proxies `/api` to FastAPI on port 80
 docker compose up --build
 ```
 
-The frontend runs on http://localhost:3000 and the API on http://localhost:8000.
+The frontend runs on http://localhost:3000 and the API on http://localhost:3100.
 
 ## Key features
 
