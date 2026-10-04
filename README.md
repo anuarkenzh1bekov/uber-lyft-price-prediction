@@ -36,6 +36,14 @@ npm run dev
 
 Open http://localhost:5173. The Vite server proxies `/api` to FastAPI on port 8000, so the whole app runs from one origin.
 
+### Docker
+
+```bash
+docker compose up --build
+```
+
+The frontend runs on http://localhost:3000 and the API on http://localhost:8000.
+
 ### Share it with ngrok
 
 ```bash
