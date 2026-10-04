@@ -1,0 +1,8 @@
+/frontend
+/datasets
+/docs
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+main.ipynb
+README.md
