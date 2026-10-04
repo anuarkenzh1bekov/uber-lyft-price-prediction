@@ -44,15 +44,6 @@ docker compose up --build
 
 The frontend runs on http://localhost:3000 and the API on http://localhost:8000.
 
-### Share it with ngrok
-
-```bash
-cd frontend && npm run build && npx vite preview --port 4173
-ngrok http 4173
-```
-
-Because of the `/api` proxy, a single tunnel serves both the site and the API.
-
 ## Key features
 
 1. **Instant estimates**: the fare updates live as you move the distance and demand sliders.
